@@ -1,0 +1,5 @@
+# Requires the portable bare-name dialect (`pymeos.portable`), added on the
+# PyMEOS 1.4 line by PR #87.  Until that release is published, install
+# PyMEOS from the PR branch:
+#   pip install "git+https://github.com/MobilityDB/PyMEOS@feat/portable-aliases"
+pymeos>=1.4.0a1
